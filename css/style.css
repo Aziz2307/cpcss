@@ -1,0 +1,166 @@
+html{Background-image:
+
+    Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+    
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);}
+    #indeximg1{
+        width:1200px;
+        height:800px;
+        margin-left:50px;
+        display:inline-block;
+        margin-top:10px;
+         
+    }
+    
+    #indeximg2{
+        width:1200px;
+        height:800px;
+        margin-left:50px;
+        display:inline-block;
+        margin-top:10px;
+    }
+    #indeximg3{
+        width:1200px;
+        height:800px;
+        margin-left:50px;
+        display:inline-block;
+        margin-top:10px;
+    }
+    #indeximg4{
+        width:250px;
+        height:250px;
+        margin-left:50px;
+        display:inline-block;
+        margin-top:120px;
+    }
+    #indeximg4:hover{
+        opacity: 0.5;
+    }
+    #indeximg5{
+        width:250px;
+        height:250px;
+        margin-left:50px;
+        display:inline-block;
+        margin-top:120px;
+    }
+    #indeximg5:hover{
+        opacity: 0.5;
+    }
+    #indeximg6{
+        width:250px;
+        height:250px;
+        margin-left:50px;
+        display:inline-block;
+        margin-top:120px;
+    }
+    #indeximg6:hover{
+        opacity: 0.5;
+    }
+    #gomycode{
+        color: white;
+    }
+    .coursesimg{
+    margin-top: 5%;
+
+    }
+    #courses1{
+        width:300px;
+        height:250px;
+        margin-left:50px;
+        display:inline-block;
+    }
+    #courses1:hover{
+        opacity: 0.5;
+    }
+    #courses2{
+        width:300px;
+        height:250px;
+        margin-left:50px;
+        display:inline-block;
+    }
+    #courses2:hover{
+        opacity: 0.5;
+    }
+    #courses3{ 
+        width:300px;
+        height:250px;
+        margin-left:50px;
+        display:inline-block;}
+        #courses1:hover{
+            opacity: 0.5;
+        }
+        #courses3:hover{
+            opacity: 0.5;
+        }
+    #courses4{
+        width:300px;
+        height:250px;
+        margin-left:50px;
+        display:inline-block;
+    }
+    #courses4:hover{
+        opacity: 0.5;
+    }
+    #courses5{
+        width:300px;
+        height:250px;
+        margin-left:50px;
+        display:inline-block;
+    }
+    #courses5:hover{
+        opacity: 0.5;
+    }
+    #courses6{
+        width:300px;
+        height:250px;
+        margin-left:50px;
+        display:inline-block;
+    }
+    #courses6:hover{
+        opacity: 0.5;
+    }
+    #courses7{
+        width:300px;
+        height:250px;
+        margin-left:50px;
+        display:inline-block;
+    }
+    #courses7:hover{
+        opacity: 0.5;
+    }
+    #courses8{
+        width:300px;
+        height:250px;
+        margin-left:50px;
+        display:inline-block;
+    }
+    #courses8:hover{
+        opacity: 0.5;
+    }
+    #courses9{
+        width:300px;
+        height:250px;
+        margin-left:50px;
+        display:inline-block;
+    }
+    #courses9:hover{
+        opacity: 0.5;
+    }
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        list-style-type: none;
+        line-height:200%    
+    
+    }
+    .container li{
+        margin-left: 90px;
+    }
+    .container li a{
+        color: white;
+        text-decoration: none;
+    }
+    h3{color: white;}
